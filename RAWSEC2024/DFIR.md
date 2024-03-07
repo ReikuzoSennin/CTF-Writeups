@@ -1,6 +1,6 @@
 # Mobile
 
-We were given a long pdf of a forensice examination report for Lenovo P70. The task was to find the password for the phone. I was stumped at first, however with the hint given it became much more clear.
+We were given a long pdf of a forensice examination report for Lenovo P70. The task was to find the password for the phone. I was stumped at first, however with the hint given it became much more clearer.
 The hint gave us a video of a hacker getting the password of someone's phone that contains bitcoin.
 
 
