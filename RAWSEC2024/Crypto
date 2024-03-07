@@ -1,0 +1,21 @@
+<details>
+
+<summary>Round and Round</summary>
+
+### Round and Round
+
+The question provided us with a txt file containing the following cipher:
+
+```ruby
+   2126226{19122929121712_6121911821_26422_842928}
+```
+I inserted the cipher into this multi decoder and got the flag
+https://www.cachesleuth.com/multidecoder/
+
+<img width="30px" src="https://imgur.com/a/6wKI8cJ" alt="pizzini.png" />
+
+```ruby
+   RWSC{PIZZINI_CIPHER_WAS_EAZY}
+```
+
+</details>
