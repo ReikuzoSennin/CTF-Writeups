@@ -12,7 +12,7 @@ Finding data/system in the pdf file resulted in an image file with SHA1.
 
 ![image](https://github.com/ReikuzoSennin/CTF-Writeups/blob/main/assets/dfir1.PNG)
 
-The password was encrypted into SHA1, so we need to decrypt it. Using an AndroidGestureCrack we were able to decrypt it.
+The password was encrypted into SHA1, so we need to decrypt it. Using an ```AndroidGestureCrack``` we were able to decrypt it.
 
 ![image](https://github.com/ReikuzoSennin/CTF-Writeups/blob/main/assets/dfir3.PNG)
 
