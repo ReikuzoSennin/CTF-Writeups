@@ -12,7 +12,7 @@ The question provided us with a txt file containing the following cipher:
 I inserted the cipher into this <a href="https://www.cachesleuth.com/multidecoder/
 ">multi decoder</a> and got the flag
 
-<img width="30px" src="https://imgur.com/a/6wKI8cJ" alt="pizzini.png" />
+![image](https://github.com/ReikuzoSennin/CTF-Writeups/blob/main/assets/pizzini.png)
 
 ```
    RWSC{PIZZINI_CIPHER_WAS_EAZY}
